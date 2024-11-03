@@ -3,13 +3,13 @@ GitHub Profile README Generator
 Star this repo10333
 Fork on GitHub2588
 <h1 align="center">Hi 👋, I'm Rodrigo de Avila</h1>
-<h3 align="center">Computer engineering student and passionate about new challenges</h3>
+<h3 align="center">Computer engineering and passionate about new challenges</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engcomprodrigoao&label=Profile%20views&color=0e75b6&style=flat" alt="engcomprodrigoao" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engcomprodrigoao" alt="engcomprodrigoao" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://x.com/Rodrigo72407284" target="blank"><img src="https://img.shields.io/twitter/follow/:Rodrigo72407284" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [GEOWATCH®](https://github.com/EngCompRodrigoAO/GEOWATCH-)
 

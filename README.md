@@ -113,12 +113,23 @@
 </p>
 
 
+
 <p align="center">
-  <img align="center" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/9b11406f-dd67-40b9-8cc6-9c3d7b19a228.svg" alt="EngCompRodrigoAO" />
+  <img align="center"  width="650" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/4fb5a4b8-8f98-4013-9d48-ed1ccd2bf848.svg" alt="EngCompRodrigoAO" />
+</p>
+
+
+<p align="center">
+  <img align="center"  width="650" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/70db1294-3edf-4e77-8b74-c5ac96995ae8.svg" alt="EngCompRodrigoAO" />
 </p>
 
 <p align="center">
-  <img align="center" width="650" height="300" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/7ffa8f81-ad48-4b69-ae61-d0f23135ce26.svg" alt="EngCompRodrigoAO" />
+  <img align="center" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/240807e0-edd1-432f-88bb-b3d7f1268e7f.svg" alt="EngCompRodrigoAO" />
+</p>
+
+
+<p align="center">
+  <img align="center" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/b772c305-4950-4299-a877-59f6273b543c.svg" alt="EngCompRodrigoAO" />
 </p>
 
 <p align="center">

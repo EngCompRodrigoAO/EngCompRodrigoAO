@@ -1,16 +1,3 @@
-<style>
-table {
-  border-collapse: collapse;
-  border: 0px solid rgb(140 140 140);
-  font-family: sans-serif;
-  font-size: 0.8rem;
-  letter-spacing: 1px;
-}
-</style>
-
-
-
-
 <h1 align="center">Hi 👋, I'm Rodrigo de Avila</h1>
 <h3 align="center">Computer engineering and passionate about new challenges</h3>
 

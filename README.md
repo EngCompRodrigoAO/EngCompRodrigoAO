@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=engcomprodrigoao&label=Profile%20views&color=0e75b6&style=flat" alt="engcomprodrigoao" />
-  <img  src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg" alt="EngCompRodrigoAO" />
+  <img  src="https://wakatime.com/badge/github/EngCompRodrigoAO/Multimanutencao.svg" alt="EngCompRodrigoAO" />
 </p>
 
 <p align="left"> 

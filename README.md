@@ -3,10 +3,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=engcomprodrigoao&label=Profile%20views&color=0e75b6&style=flat" alt="engcomprodrigoao" />
-  
-  [![wakatime](https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg)](https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6)
-
-<embed src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/3fb336f9-2dac-4b62-b661-e417e2407012.svg"></embed>
+   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg" alt="engcomprodrigoao" />
 
 
 
@@ -153,11 +150,6 @@
 
 <p align="center">
   <img align="center" width="650" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngCompRodrigoAO&layout=compact&theme=dark&count_private=true" alt="EngCompRodrigoAO" />
-</p>
-
-<p align="center"> 
-  <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg" alt="engcomprodrigoao" />
-  <img  src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/5e18e9a2-116a-4602-a84f-c996f6fde59b.svg" alt="EngCompRodrigoAO" />
 </p>
 
 

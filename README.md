@@ -1,9 +1,29 @@
+<style>
+table {
+  border-collapse: collapse;
+  border: 0px solid rgb(140 140 140);
+  font-family: sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+</style>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Rodrigo de Avila</h1>
 <h3 align="center">Computer engineering and passionate about new challenges</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=engcomprodrigoao&label=Profile%20views&color=0e75b6&style=flat" alt="engcomprodrigoao" />
-  <img  src="https://wakatime.com/badge/github/EngCompRodrigoAO/Multimanutencao.svg" alt="EngCompRodrigoAO" />
+  
+  [![wakatime](https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg)](https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6)
+
+<embed src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/3fb336f9-2dac-4b62-b661-e417e2407012.svg"></embed>
+
+
+
+  
 </p>
 
 <p align="left"> 
@@ -113,23 +133,23 @@
 </p>
 
 
-
+    
+   
 <p align="center">
   <img align="center"  width="650" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/4fb5a4b8-8f98-4013-9d48-ed1ccd2bf848.svg" alt="EngCompRodrigoAO" />
 </p>
 
+<table>
+  <thead>
+    <tr>
+      <th scope="col"> <img align="center"  width="325" height="325"src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/3fb336f9-2dac-4b62-b661-e417e2407012.svg" alt="EngCompRodrigoAO" /></th>
+      <th scope="col"> <img align="center" width="325" height="325" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/a949dffb-89c3-452a-9f4b-b9a272df481b.svg" alt="EngCompRodrigoAO" /></th>
+    </tr>
+  </thead>
+</table>
 
 <p align="center">
-  <img align="center"  width="650" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/70db1294-3edf-4e77-8b74-c5ac96995ae8.svg" alt="EngCompRodrigoAO" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/240807e0-edd1-432f-88bb-b3d7f1268e7f.svg" alt="EngCompRodrigoAO" />
-</p>
-
-
-<p align="center">
-  <img align="center" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/b772c305-4950-4299-a877-59f6273b543c.svg" alt="EngCompRodrigoAO" />
+  <img align="center" width="325" height="300" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/968917e7-49b3-4d46-a74d-16b3d6db4241.svg" alt="EngCompRodrigoAO" />
 </p>
 
 <p align="center">

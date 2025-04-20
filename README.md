@@ -139,7 +139,7 @@ table {
   <img align="center"  width="650" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/4fb5a4b8-8f98-4013-9d48-ed1ccd2bf848.svg" alt="EngCompRodrigoAO" />
 </p>
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th scope="col"> <img align="center"  width="325" height="325"src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/3fb336f9-2dac-4b62-b661-e417e2407012.svg" alt="EngCompRodrigoAO" /></th>

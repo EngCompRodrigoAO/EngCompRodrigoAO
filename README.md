@@ -123,20 +123,20 @@
     
    
 <p align="center">
-  <img align="center"  width="650" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/4fb5a4b8-8f98-4013-9d48-ed1ccd2bf848.svg" alt="EngCompRodrigoAO" />
+  <img align="center"  width="650" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/4fb5a4b8-8f98-4013-9d48-ed1ccd2bf848.svg" alt="Coding Activity over Last Year" />
 </p>
 
 <table align="center">
   <thead>
     <tr>
-      <th scope="col"> <img align="center"  width="325" height="325"src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/3fb336f9-2dac-4b62-b661-e417e2407012.svg" alt="EngCompRodrigoAO" /></th>
-      <th scope="col"> <img align="center" width="325" height="325" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/a949dffb-89c3-452a-9f4b-b9a272df481b.svg" alt="EngCompRodrigoAO" /></th>
+      <th scope="col"> <img align="center"  width="325" height="325"src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/3fb336f9-2dac-4b62-b661-e417e2407012.svg" alt="Languages over All Time" /></th>
+      <th scope="col"> <img align="center" width="325" height="325" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/a949dffb-89c3-452a-9f4b-b9a272df481b.svg" alt="Categories over All Time" /></th>
     </tr>
   </thead>
 </table>
 
 <p align="center">
-  <img align="center" width="325" height="300" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/968917e7-49b3-4d46-a74d-16b3d6db4241.svg" alt="EngCompRodrigoAO" />
+  <img align="center" width="325" height="300" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/968917e7-49b3-4d46-a74d-16b3d6db4241.svg" alt="Editors over All Time" />
 </p>
 
 <p align="center">

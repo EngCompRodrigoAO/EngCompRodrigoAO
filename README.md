@@ -3,7 +3,11 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=engcomprodrigoao&label=Profile%20views&color=0e75b6&style=flat" alt="engcomprodrigoao" />
-   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg" alt="engcomprodrigoao" />
+  <a href="https://wakatime.com/projects/GRAFICO_CSharp" target="_blank" rel="noreferrer">
+   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg" alt=" GRAFICO_CSharp" /></a>
+  <a href="https://wakatime.com/projects/MULTIMANUTENCAO" target="_blank" rel="noreferrer">
+     <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/6533b56b-dcb2-49fb-8099-9c6c9d942b5a.svg" alt="  MULTIMANUTENCAO" /></a>
+   
 
 
 
@@ -22,6 +26,44 @@
 
 
 - 🔭 I’m currently working on [GEOWATCH®](https://github.com/EngCompRodrigoAO/GEOWATCH-)
+<table align="center" width="650" margin="0" border"0">
+  <caption>
+    - 🔭 I’m currently working on 
+  </caption>
+     <tr align="center" margin="0" border"0>
+      <th align="center" margin="0" border"0">MULTIMANUTENCAO</th>
+      <th align="center" margin="0" border"0">GRAFICO_CSharp</th>
+      <th align="center" margin="0" border"0">hello_adc</th>
+      <th align="center" margin="0" border"0">GRAFICO</th>
+    </tr>
+    <tr align="center" margin="0" border"0>
+      <td align="center" margin="0" border"0>
+        <a href="https://wakatime.com/projects/MULTIMANUTENCAO" target="_blank" rel="noreferrer">
+     <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/6533b56b-dcb2-49fb-8099-9c6c9d942b5a.svg?style=plastic" alt="MULTIMANUTENCAO"  width="140" height="23"/>
+      </a>
+      </td>
+      <td align="center" margin="0" border"0>
+        <a href="https://wakatime.com/projects/GRAFICO_CSharp" target="_blank" rel="noreferrer">
+   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg?style=plastic" alt="GRAFICO_CSharp"  width="140" height="23"/>
+      </a>
+      </td>
+      <td align="center" margin="0" border"0>
+        <a href="https://wakatime.com/projects/hello_adc" target="_blank" rel="noreferrer">
+   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/5e18e9a2-116a-4602-a84f-c996f6fde59b.svg?style=plastic" alt="hello_adc"  width="140" height="23"/>
+      </a>
+      </td>
+      <td align="center" margin="0" border"0>
+        <a href=" https://wakatime.com/projects/GRAFICO" target="_blank" rel="noreferrer">
+   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/c56679fe-d53c-41d5-8a32-c422d0011ad9.svg?style=plastic" alt="GRAFICO" width="140" height="23"/>
+      </a>
+      </td>
+    </tr>
+</table>
+
+
+  
+
+     
 
 - 🌱 I’m currently learning **Platform.IO, Raspberry PI Pico**
 

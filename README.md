@@ -39,22 +39,22 @@
     <tr align="center" margin="0" border"0>
       <td align="center" margin="0" border"0>
         <a href="https://wakatime.com/projects/MULTIMANUTENCAO" target="_blank" rel="noreferrer">
-     <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/6533b56b-dcb2-49fb-8099-9c6c9d942b5a.svg?style=plastic" alt="MULTIMANUTENCAO"  width="140" height="23"/>
+     <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/6533b56b-dcb2-49fb-8099-9c6c9d942b5a.svg?style=plastic" alt="MULTIMANUTENCAO"  width="150" height="25"/>
       </a>
       </td>
       <td align="center" margin="0" border"0>
         <a href="https://wakatime.com/projects/GRAFICO_CSharp" target="_blank" rel="noreferrer">
-   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg?style=plastic" alt="GRAFICO_CSharp"  width="140" height="23"/>
+   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/0f72ae7a-23e5-4256-a7bf-39dc531071c6.svg?style=plastic" alt="GRAFICO_CSharp"  width="150" height="25"/>
       </a>
       </td>
       <td align="center" margin="0" border"0>
         <a href="https://wakatime.com/projects/hello_adc" target="_blank" rel="noreferrer">
-   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/5e18e9a2-116a-4602-a84f-c996f6fde59b.svg?style=plastic" alt="hello_adc"  width="140" height="23"/>
+   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/5e18e9a2-116a-4602-a84f-c996f6fde59b.svg?style=plastic" alt="hello_adc"  width="150" height="25"/>
       </a>
       </td>
       <td align="center" margin="0" border"0>
         <a href=" https://wakatime.com/projects/GRAFICO" target="_blank" rel="noreferrer">
-   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/c56679fe-d53c-41d5-8a32-c422d0011ad9.svg?style=plastic" alt="GRAFICO" width="140" height="23"/>
+   <img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479/project/c56679fe-d53c-41d5-8a32-c422d0011ad9.svg?style=plastic" alt="GRAFICO" width="150" height="25"/>
       </a>
       </td>
     </tr>

@@ -12,7 +12,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=engcomprodrigoao" alt="engcomprodrigoao" />
+    <img src="https://github-profile-trophy.vercel.app/?username=EngCompRodrigoAO" alt="EngCompRodrigoAO" />
   </a> 
 </p>
 

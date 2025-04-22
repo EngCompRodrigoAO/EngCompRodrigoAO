@@ -246,7 +246,7 @@ Profissional proativo, autodidata, com espírito inovador e paixão por tecnolog
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg" alt="Discord" width="40" height="40"/>
   </a>
   
-  <a href="https://www.reddit.com/user/Deep_Patience7202/" target="_blank">
+  <a href="https://www.reddit.com/user/eng_comp_rodrigo_io/" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/reddit.svg" alt="Reddit" width="40" height="40"/>
   </a>
   

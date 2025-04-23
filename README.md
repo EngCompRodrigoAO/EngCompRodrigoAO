@@ -203,7 +203,9 @@ Profissional proativo, autodidata, com espírito inovador e paixão por tecnolog
 </p>
 
 <p align="center">
-  <img align="center"  width="650" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/4fb5a4b8-8f98-4013-9d48-ed1ccd2bf848.svg" alt="Coding Activity over Last Year" />
+  <a href="https://wakatime.com/@Eng_Comp_Rodrigo_AO">
+  <img align="center"  width="650" src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479.svg" alt="Coding Activity over Last Year" />
+  </a>
 </p>
 
 <table align="center">

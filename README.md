@@ -101,7 +101,7 @@ Profissional proativo, autodidata, com espírito inovador e paixão por tecnolog
     </tr>
           <tr>
             <td colspan="5" align="center">
-              <a href="https://wakatime.com/@113a1041-de9d-4a47-a968-161b53635479"  target="_blank" rel="noreferrer"><img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479.svg" alt="Total time coded since Apr 19 2025" /></a>
+              <a href="https://wakatime.com/@113a1041-de9d-4a47-a968-161b53635479"  target="_blank" rel="noreferrer"><img src="https://wakatime.com/badge/user/113a1041-de9d-4a47-a968-161b53635479.svg" alt="Total time coded" /></a>
             </td>
           </tr>
 </table>

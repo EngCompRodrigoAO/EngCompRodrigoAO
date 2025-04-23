@@ -196,7 +196,7 @@ Profissional proativo, autodidata, com espírito inovador e paixão por tecnolog
 
 ## 📊 GitHub Stats
   
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=EngCompRodrigoAO&theme=matrix" alt="EngCompRodrigoAO" />
   </a> 

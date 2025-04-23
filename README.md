@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Rodrigo Oliveira 👋</h1>
 
 <p align="center">
-  Engenheiro da Computação • Desenvolvedor de Firmwares Embarcados • Especialista em Automação Laboratorial e Industrial
+  Engenheiro da Computação • Desenvolvedor de Firmwares Embarcados • 
 </p>
 
 ---

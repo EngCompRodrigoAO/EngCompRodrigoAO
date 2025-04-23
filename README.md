@@ -23,18 +23,20 @@ Nas horas vagas, curto mergulhar em séries e filmes de ficção científica, co
 ## 🧠 Certificações e Formação
 
 
-🎓 **Formação Acadêmica**  
+#### 🎓 **Formação Acadêmica**  
 🎓 **UNIVESP** – Engenharia da Computação – Concluído em 2024  
-🎓 **FIA** – Análise e Desenvolvimento de Sistemas – Incompleto (2005–2009)  
+🎓 **FIA** – Análise e Desenvolvimento de Sistemas – (2005–2009)  
 
-📜 **Certificações**  
+#### 📜 **Certificações**  
 ✅ **FreeCodeCamp** – Foundational C# with Microsoft Certification – 2024  
 ✅ **FreeCodeCamp** – Full Stack Developer Curriculum – Em andamento (2025)  
 
-📘 **Cursos Técnicos** 
-🛠️ Hardware – ETE Lauro Gomes - (1999-2000)
-💻 Programação – Microlins – (2001–2002)
-💻 WebDesigner – Microlins –(2003–2004)
+#### 📘 **Cursos Técnicos**<br>
+🛠️ **Hardware** – ETE Lauro Gomes - (1999-2000)<br>
+💻 **Programação** – Microlins – (2001–2002)<br>
+💻 **WebDesigner** – Microlins –(2003–2004)<br>
+
+
 
 ---
 

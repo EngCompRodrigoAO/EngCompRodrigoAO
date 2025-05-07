@@ -1,8 +1,16 @@
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EngCompRodrigoAO&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngCompRodrigoAO&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
 <h1 align="center">Olá! Eu sou o Rodrigo Oliveira 👋</h1>
 
 <p align="center">
   Engenheiro da Computação • Desenvolvedor de Firmwares Embarcados • 
 </p>
+
+
+
+
 
 ---
 
@@ -204,6 +212,13 @@ Profissional proativo, autodidata, com espírito inovador e paixão por tecnolog
     <img src="https://github-profile-trophy.vercel.app/?username=EngCompRodrigoAO&theme=matrix" alt="EngCompRodrigoAO" />
   </a> 
 </p>
+
+
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
 
 
 

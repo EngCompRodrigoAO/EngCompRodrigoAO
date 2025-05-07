@@ -1,5 +1,5 @@
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EngCompRodrigoAO&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngCompRodrigoAO&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
+
+
 
 
 <h1 align="center">Olá! Eu sou o Rodrigo Oliveira 👋</h1>
@@ -216,6 +216,8 @@ Profissional proativo, autodidata, com espírito inovador e paixão por tecnolog
 
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EngCompRodrigoAO&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngCompRodrigoAO&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
   
 
   

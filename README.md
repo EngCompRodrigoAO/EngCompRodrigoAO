@@ -206,23 +206,17 @@ Profissional proativo, autodidata, com espírito inovador e paixão por tecnolog
 ---
 
 ## 📊 GitHub Stats
+
   
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EngCompRodrigoAO&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngCompRodrigoAO&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+ 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=EngCompRodrigoAO&theme=matrix" alt="EngCompRodrigoAO" />
   </a> 
 </p>
-
-
-
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EngCompRodrigoAO&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngCompRodrigoAO&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-  
-
-  
-
-
 
 <table align="center">
   <thead>
@@ -237,15 +231,6 @@ Profissional proativo, autodidata, com espírito inovador e paixão por tecnolog
   <img align="center" width="325" height="300" src="https://wakatime.com/share/@Eng_Comp_Rodrigo_AO/968917e7-49b3-4d46-a74d-16b3d6db4241.svg" alt="Editors over All Time" />
 </p>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RodrigoAO&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EngCompRodrigoAO&show_icons=true&locale=en&&show_icons=true&theme=dark&count_private=true" alt="EngCompRodrigoAO" />
-</p>
-
-<p align="center">
-<img width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoAOliveira&theme=dark" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngCompRodrigoAO&layout=compact&theme=dark&count_private=true" alt="EngCompRodrigoAO" />
-</p>
 
 ---
 
